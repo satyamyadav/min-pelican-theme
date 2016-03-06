@@ -6,7 +6,7 @@ Theme by Giulio Fidente on [Github](https://github.com/gfidente/pelican-svbhack)
 
 
 ###Setup:
-	cd path/to/your/site/directory
-	git clone https://github.com/satyamyadav/min-pelican-theme.git
-	nano pelicanconf.py
-	add/update: THEME = 'min-pelican-theme'
+		cd path/to/your/site/directory
+		git clone https://github.com/satyamyadav/min-pelican-theme.git
+		nano pelicanconf.py
+		add/update: THEME = 'min-pelican-theme'
